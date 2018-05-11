@@ -1,5 +1,10 @@
 # SSS-Assignment-3
 
+
+
+######## Blog Post - https://technoholicsblog.blogspot.com/2018/05/secure-software-systems-assignment-3.html   ############ 
+
+
  SSS Assignment 03 - application that consumes the service of an OAuth…
 
 … Authorization Server and an OAuth Resource Server.
